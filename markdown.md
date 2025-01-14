@@ -1,2 +1,4 @@
-check
-##second line
+first line  
+**second line**  
+*italics*  
+e<sup>x </sup>
